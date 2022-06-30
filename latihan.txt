@@ -1,2 +1,3 @@
 Latihan
 - lahitan bekerja menggunakan github
+- tutorial dari youtube
